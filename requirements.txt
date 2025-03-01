@@ -1,0 +1,20 @@
+
+image_processing_project/
+│
+├── main.py                     
+├── image_utils/                
+│   ├── __init__.py
+│   ├── filters_high.py 
+│   ├── filters_low.py             
+│   ├── transformations.py     
+│   ├── morphology.py           
+│   ├── detection.py            
+│   └── histogram.py            
+├── gui/                        
+│   ├── __init__.py
+│   ├── main_window.py  //Run this file
+            
+├── tests/                      
+│   ├── __init__.py
+│   └── test_filters.py         
+└── requirements.txt 
